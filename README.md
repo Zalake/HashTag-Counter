@@ -71,6 +71,7 @@ Node structure:
 Fibonacci Heap Structure:
 -max – pointer to maximum node
 -Total number of nodes in the root list.
+
 Project contains 4 classes:
 1.      “FibHeap.h” with function declarations, and its corresponding child class “FibHeap.cpp” where the functions are defined so that it can be used in main program.
 2.      “Node.h” with function declarations, and its corresponding child class “Node.cpp” where necessary functions are defined so that it can be used in main program.
@@ -106,3 +107,4 @@ This is called by “pairWiseCombine” function, the pointer to the node t1 is 
 
 
 Flow Diagram:
+
